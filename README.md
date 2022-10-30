@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka **[RaskE](https://github.com/DevRaske)** 👋 
+# Zdravíčko jsem Michael - aka **[RaskE](https://github.com/DevRaske)** 👋 
 
 <h2> 🚀 &nbsp;Moje programovací jazyky co se stále učím.</h2>
 <p align="left">
