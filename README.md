@@ -1,4 +1,5 @@
 # Ahoj, jsem **[RaskE](https://github.com/DevRaske)** 👋 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
