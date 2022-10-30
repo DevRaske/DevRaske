@@ -1,5 +1,6 @@
 # Ahoj, jsem **[RaskE](https://github.com/DevRaske)** 👋 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
+[![YouTube Channel Subscribers](https://img.shields.io/badge/15-YEARS%20OLD-yellow)][youtube]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
