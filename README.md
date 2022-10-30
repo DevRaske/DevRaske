@@ -1,6 +1,6 @@
 # Ahoj, jsem **[RaskE](https://github.com/DevRaske)** 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=15%20YEARS%20OLD&style=for-the-badge)]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
