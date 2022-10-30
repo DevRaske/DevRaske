@@ -1,4 +1,4 @@
-# Zdravíčko jsem Michael - aka **[RaskE](https://github.com/DevRaske)** 👋 
+# Ahoj, jsem **[RaskE](https://github.com/DevRaske)** 👋 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
