@@ -1,6 +1,6 @@
 # Ahoj, jsem **[RaskE](https://github.com/DevRaske)** 👋 
 
-[![Website](https://img.shields.io/website?label=15%20YEARS%20OLD&style=for-the-badge)]
+[![Website](https://img.shields.io/badge/15%20YEARS%20OLD-%3C%3C%3C-blue)]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
