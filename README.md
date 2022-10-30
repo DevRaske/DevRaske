@@ -1,5 +1,5 @@
-# Ahoj, jsem **[RaskE](https://github.com/DevRaske)** 👋
-# Jsem 15letý kluk který si jde za snem.
+# Ahoj, jsem **[RaskE](https://github.com/DevRaske)** 👋 
+###  Jsem 15letý kluk který si jde za snem.
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
