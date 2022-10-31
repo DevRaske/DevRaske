@@ -11,12 +11,7 @@
 - 🥅 Můj cíl je se dostat jako profesionální programátor někam dál.
 - ⚡ Jinak rád běhám a mám rád sport.
 
-### Moje soc. sítě:
-
-[![website](./img/instagram-light.svg)](https://instagram.com/misanecek._#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/misanecek._#gh-dark-mode-only)
-[![website](./img/discord-light.svg)](https://theraske.has-a-hot.mom/5LSdiZRtk_#gh-dark-mode-only)
-
+---
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ### <h2> 🚀 &nbsp;Moje programovací jazyky co se stále učím.</h2>
