@@ -9,7 +9,7 @@
 - 😎 Jmenuji se Miša a bydlím v KH Kraji.
 - 🎈 Už jsem dělal pár projektů (servery..) apod.
 - 🥅 Můj cíl je se dostat jako profesionální programátor někam dál.
-- ⚡ Jinak rád běhám a mám rád sport.
+- ⚡ Jinak rád běhám a chodím do fitka.
 
 ---
 
