@@ -11,13 +11,10 @@
 - 🥅 Můj cíl je se dostat jako profesionální programátor někam dál.
 - ⚡ Jinak rád běhám a mám rád sport.
 
-### Connect with me:
+### Moje soc. sítě:
 
 [![website](./img/instagram-light.svg)](https://instagram.com/misanecek._#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/misanecek._#gh-dark-mode-only)
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
