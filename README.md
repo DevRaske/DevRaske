@@ -16,7 +16,7 @@
 ### <h2> 🚀 &nbsp;Programming languages that i am learning. (Mainly Python)</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,py)](https://skillicons.dev)
+<h3 align="center"> [![My Skills](https://skillicons.dev/icons?i=js,css,py)](https://skillicons.dev)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
