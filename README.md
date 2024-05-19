@@ -16,7 +16,9 @@
 ### <h2> 🚀 &nbsp;Programming languages that i am learning. (Mainly Python)</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,py)](https://skillicons.dev)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,css,py" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F75858&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+you+enjoyed!+👋;" />
