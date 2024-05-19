@@ -10,12 +10,12 @@
 <h2> 🧤 &nbsp;I am just teenage who's trying to learn coding.</h2> 
 </div>
 
-<div align="center">
-- 😎 My name is Michael and i come from Czech Republic
-- 🎈 I have little experience with developing on some Game Servers.
-- 🥅 My goal is to get better with coding and maybe find some job.
-- ⚡ I also go to gym and workout.
-</div>
+
+<div align="center"> - 😎 My name is Michael and i come from Czech Republic</div>
+<div align="center"> - 🎈 I have little experience with developing on some Game Servers.</div>
+<div align="center"> - 🥅 My goal is to get better with coding and maybe find some job.</div>
+<div align="center"> - ⚡ I also go to gym and workout.</div>
+
 ---
 
 <div align="center">
