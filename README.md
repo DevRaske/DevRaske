@@ -13,7 +13,7 @@
 
 ---
 
-### <h2> 🚀 &nbsp;Programming languages that i am learning ( Mainly Python ).</h2>
+### <h2> 🚀 &nbsp;Programming languages that i am learning ( Mainly Python )</h2>
 <p align="left">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
