@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-## I am just teenage who's trying to learn coding.
+</h2>I am just teenage who's trying to learn coding.</h2> 
 </div>
 
 - 😎 My name is Michael and i come from Czech Republic
