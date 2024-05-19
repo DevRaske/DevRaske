@@ -1,6 +1,4 @@
-<div align="center">
-Hello my name is **[Raske](https://github.com/DevRaske)** 👋 🎓
-</div>
+# Hello my name is **[Raske](https://github.com/DevRaske)** 👋 🎓
 ---
 
 [![Website](https://img.shields.io/badge/STUDENT-%E2%9C%AA-blueviolet?style=for-the-badge&logo=appveyor)](https://github.com/DevRaske)
