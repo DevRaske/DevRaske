@@ -1,5 +1,5 @@
 <div align="center">
-<h3> &nbsp;Hello my name is **[Raske](https://github.com/DevRaske)** 👋 🎓</h2> 
+<h3> &nbsp;Hello my name is Raske 👋 🎓</h2> 
 </div>
 
 ---
