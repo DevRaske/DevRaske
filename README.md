@@ -1,4 +1,7 @@
-# Hello my name is **[Raske](https://github.com/DevRaske)** 👋 🎓
+<div align="center">
+<h2> &nbsp;Hello my name is **[Raske](https://github.com/DevRaske)** 👋 🎓</h2> 
+</div>
+
 ---
 
 <div align="center">
