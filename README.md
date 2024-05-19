@@ -18,12 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,py)](https://skillicons.dev)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Raske's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevRaske&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F75858&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hope+you+enjoyed!+👋;" />
 </h1>
