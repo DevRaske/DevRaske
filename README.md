@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/NOT%20EXPERIENCED%20DEV-%E2%9C%AA-ff69b4?style=for-the-badge&logo=appveyor"/>
 </div>
 
-## I am just teenage who's trying to learn coding.
+<div align="center">
+I am just teenage who's trying to learn coding.
+</div>
 
 - 😎 My name is Michael and i come from Czech Republic
 - 🎈 I have little experience with developing on some Game Servers.
