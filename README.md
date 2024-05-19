@@ -1,6 +1,10 @@
 # Hello my name is **[Raske](https://github.com/DevRaske)** 👋 🎓
 ---
 
+<div align="center">
+    <img src="[https://skillicons.dev/icons?i=js,css,py](https://img.shields.io/badge/STUDENT-%E2%9C%AA-blueviolet?style=for-the-badge&logo=appveyor)" />
+</div>
+
 [![Website](https://img.shields.io/badge/STUDENT-%E2%9C%AA-blueviolet?style=for-the-badge&logo=appveyor)](https://github.com/DevRaske)
 [![Drua](https://img.shields.io/badge/NOT%20EXPERIENCED%20DEV-%E2%9C%AA-ff69b4?style=for-the-badge&logo=appveyor)](https://github.com/DevRaske)
 
