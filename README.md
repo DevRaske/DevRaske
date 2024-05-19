@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-    <img src="[https://skillicons.dev/icons?i=js,css,py](https://img.shields.io/badge/STUDENT-%E2%9C%AA-blueviolet?style=for-the-badge&logo=appveyor)" />
+    <img src="https://img.shields.io/badge/STUDENT-%E2%9C%AA-blueviolet?style=for-the-badge&logo=appveyor"/>
 </div>
 
 [![Website](https://img.shields.io/badge/STUDENT-%E2%9C%AA-blueviolet?style=for-the-badge&logo=appveyor)](https://github.com/DevRaske)
