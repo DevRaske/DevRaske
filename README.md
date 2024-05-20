@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-<h2> 🚀 &nbsp;Programming languages that i am learning. (Mainly Python)</h2> 
+<h2> 🚀 &nbsp;Programming languages i am still learning. (Mainly Python)</h2> 
 </div>
 
 <p align="center">
