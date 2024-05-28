@@ -19,8 +19,6 @@
 <div align="center">  🎈 I have little experience with developing on some Game Servers.</div>
 <div align="center">  ·</div>
 <div align="center">  🥅 My goal is to get better with coding and maybe find some job.</div>
-<div align="center">  ·</div>
-<div align="center">  ⚡ I am living healthy lifestyle hitting gym, workout.</div>
 
 ---
 
