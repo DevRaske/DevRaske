@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<h2> 🧤 &nbsp;I am just teenage who's trying to learn coding.</h2> 
+<h2> 🧤 &nbsp;I'm just teenage who's trying to learn coding.</h2> 
 </div>
 
 
